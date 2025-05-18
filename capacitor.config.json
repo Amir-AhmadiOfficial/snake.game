@@ -1,0 +1,9 @@
+{
+  "appId": "com.snakegame.app",
+  "appName": "Snake Game",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+} 
